@@ -6,7 +6,7 @@ import json
 class NameBotAPI:
     """Internal API client for NameBot service"""
     
-    def __init__(self, api_url: str = "https://your-app.vercel.app"):
+    def __init__(self, api_url: str = "https://v0-vercel-hosting-files.vercel.app"):
         """
         Initialize the NameBot API client
         
